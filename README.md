@@ -30,6 +30,20 @@ The Covid-19 Trend Tracker uses Python data analysis libraries to:
 
 ---
 
+## 📊 Visualizations
+
+### Monthly New Cases
+![Monthly New Cases](visualizations/Monthly%20New%20Cases.png)
+
+### Total COVID-19 Cases Over Time in Italy
+![Total COVID-19 Cases Over Time in Italy](visualizations/Total%20COVID-19%20Cases%20Over%20Time%20in%20Italy.png)
+
+### Total COVID-19 Deaths Over Time in Italy
+![Total COVID-19 Deaths Over Time in Italy](visualizations/Total%20COVID-19%20Deaths%20Over%20Time%20in%20Italy.png)
+
+
+---
+
 🙋‍♂️ Author
 
 **Umeir Mohamed**  
